@@ -25,10 +25,16 @@ es:
     error:
       zero: "Errores"
       one: "Error"
+      two: "Errores"
+      few: "Errores"
+      many: "Errores"
       other: "Errores"
     example:
       zero: "Ejemplos"
       one: "Ejemplo"
+      two: "Ejemplos"
+      few: "Ejemplos"
+      many: "Ejemplos"
       other: "Ejemplos"
     example_abbr: "por ejemplo"
     found: "Encontrado"
@@ -56,6 +62,9 @@ es:
     result:
       zero: "Resultados"
       one: "Resultado"
+      two: "Resultados"
+      few: "Resultados"
+      many: "Resultados"
       other: "Resultados"
     review: "Revisar"
     run: "Ejecutar"
@@ -115,102 +124,177 @@ es:
       answer:
         zero: "Respuestas"
         one: "Respuesta"
+        two: "Respuestas"
+        few: "Respuestas"
+        many: "Respuestas"
         other: "Respuestas"
       assignment:
         zero: "Tareas"
         one: "Tarea"
+        two: "Tareas"
+        few: "Tareas"
+        many: "Tareas"
         other: "Tareas"
       broadcast:
         zero: "Transmisiones"
         one: "Transmisón"
+        two: "Transmisiones"
+        few: "Transmisiones"
+        many: "Transmisiones"
         other: "Transmisiones"
       choice:
         zero: "Opciones"
         one: "Opción"
+        two: "Opciones"
+        few: "Opciones"
+        many: "Opciones"
         other: "Opciones"
       condition:
         zero: "Condiciones"
         one: "Condición"
+        two: "Condiciones"
+        few: "Condiciones"
+        many: "Condiciones"
         other: "Condiciones"
       form:
         zero: "Formularios"
         one: "Formulario"
+        two: "Formularios"
+        few: "Formularios"
+        many: "Formularios"
         other: "Formularios"
       mission:
         zero: "Misiones"
         one: "Misión"
+        two: "Misiones"
+        few: "Misiones"
+        many: "Misiones"
         other: "Misiones"
       option:
         zero: "Opciones"
         one: "Opción"
+        two: "Opciones"
+        few: "Opciones"
+        many: "Opciones"
         other: "Opciones"
       option_set:
         zero: "Conjuntos de opciones "
         one: "Conjunto de opciones "
+        two: "Conjuntos de opciones "
+        few: "Conjuntos de opciones "
+        many: "Conjuntos de opciones "
         other: "Conjuntos de opciones "
       password_reset:
         zero: "Restablecimiento de Contraseña"
         one: "Restablecimiento de Contraseña"
+        two: "Restablecimiento de Contraseña"
+        few: "Restablecimiento de Contraseña"
+        many: "Restablecimiento de Contraseña"
         other: "Restablecimiento de Contraseña"
       question:
         zero: "Preguntas"
         one: "Pregunta"
+        two: "Preguntas"
+        few: "Preguntas"
+        many: "Preguntas"
         other: "Preguntas"
       questioning:
         zero: "Preguntas"
         one: "Pregunta"
+        two: "Preguntas"
+        few: "Preguntas"
+        many: "Preguntas"
         other: "Preguntas"
       report/calculation:
         zero: "Cálculos"
         one: "Cálculo"
+        two: "Cálculos"
+        few: "Cálculos"
+        many: "Cálculos"
         other: "Cálculos"
       report/report:
         zero: "Informes"
         one: "Informe"
+        two: "Informes"
+        few: "Informes"
+        many: "Informes"
         other: "Informes"
       report/tally_report:
         zero: "Informes de Cómputo"
         one: "Informe de Cómputo"
+        two: "Informes de Cómputo"
+        few: "Informes de Cómputo"
+        many: "Informes de Cómputo"
         other: "Informes de Cómputo"
       report/answer_tally_report:
         zero: "Informes de Cómputo de Respuesta"
         one: "Informe de Cómputo de Respuesta"
+        two: "Informes de Cómputo de Respuesta"
+        few: "Informes de Cómputo de Respuesta"
+        many: "Informes de Cómputo de Respuesta"
         other: "Informes de Cómputo de Respuesta"
       report/response_tally_report:
         zero: "Informes de Cómputo de Respuesta"
         one: "Respuesta informe recuento"
+        two: "Actas de escrutinio respuesta"
+        few: "Actas de escrutinio respuesta"
+        many: "Actas de escrutinio respuesta"
         other: "Actas de escrutinio respuesta"
       report/list_report:
         zero: "Informes de Listas"
         one: "Informe de Listas"
+        two: "Informes de Listas"
+        few: "Informes de Listas"
+        many: "Informes de Listas"
         other: "Informes de Listas"
       report/standard_form_report:
         zero: "Informes de Formulario Estándar"
         one: "Informe de Formulario Estándar"
+        two: "Informes de Formulario Estándar"
+        few: "Informes de Formulario Estándar"
+        many: "Informes de Formulario Estándar"
         other: "Informes de Formulario Estándar"
       response:
         zero: "Respuestas"
         one: "Respuesta"
+        two: "Respuestas"
+        few: "Respuestas"
+        many: "Respuestas"
         other: "Respuestas"
       search/search:
         zero: "Búsquedas"
         one: "Búsqueda"
+        two: "Búsquedas"
+        few: "Búsquedas"
+        many: "Búsquedas"
         other: "Búsquedas"
       setting:
         zero: "Ajustes"
         one: "Ajustes"
+        two: "Ajustes"
+        few: "Ajustes"
+        many: "Ajustes"
         other: "Ajustes"
       sms/message:
         zero: "SMSes"
         one: "SMS"
+        two: "SMSes"
+        few: "SMSes"
+        many: "SMSes"
         other: "SMSes"
       user:
         zero: "Usuarios "
         one: "Usuario"
+        two: "Usuarios"
+        few: "Usuarios"
+        many: "Usuarios"
         other: "Usuarios"
       tag:
         zero: "Etiquetas"
         one: "Etiqueta"
+        two: "Etiquetas"
+        few: "Etiquetas"
+        many: "Etiquetas"
         other: "Etiquetas"
     attributes:
       broadcast:
@@ -609,6 +693,9 @@ es:
         single_page_html:
           zero: "No se pueden encontrar Emisiones"
           one: "Mostrando <b>1</b> Emisión"
+          two: "Mostrando <b>todas %{count}</b> Emisiones"
+          few: "Mostrando <b>todas %{count}</b> Emisiones"
+          many: "Mostrando <b>todas %{count}</b> Emisiones"
           other: "Mostrando <b>todas %{count}</b> Emisiones"
         multi_page_html: "Mostrando Emisiones  <b>%{from} - %{to}</b> de <b>%{count}</b> totales"
     form:
@@ -616,30 +703,45 @@ es:
         single_page_html:
           zero: "No se ha encontrado ningún formulario"
           one: "Mostrando <b>1</b> Formulario"
+          two: "Mostrando <b>todos %{count}</b> Formularios"
+          few: "Mostrando <b>todos %{count}</b> Formularios"
+          many: "Mostrando <b>todos %{count}</b> Formularios"
           other: "Mostrando <b>todos %{count}</b> Formularios"
     mission:
       page_entries_info:
         single_page_html:
           zero: "No se han encontrado Misiones"
           one: "Mostrando <b>1</b> Misión"
+          two: "Mostrando <b>todas %{count}</b> Misiones"
+          few: "Mostrando <b>todas %{count}</b> Misiones"
+          many: "Mostrando <b>todas %{count}</b> Misiones"
           other: "Mostrando <b>todas %{count}</b> Misiones"
     option:
       page_entries_info:
         single_page_html:
           zero: "No se han encontrado Opciones"
           one: "Mostrando <b>1</b> Opción"
+          two: "Mostrando <b> todas %{count}</b> Opciones"
+          few: "Mostrando <b> todas %{count}</b> Opciones"
+          many: "Mostrando <b> todas %{count}</b> Opciones"
           other: "Mostrando <b> todas %{count}</b> Opciones"
     option_set:
       page_entries_info:
         single_page_html:
           zero: "No se han encontrado Conjuntos de Opciones"
           one: "Mostrando <b>1</b> Conjunto de Opciones"
+          two: "Mostrando <b>todos %{count}</b> Conjunto de Opciones"
+          few: "Mostrando <b>todos %{count}</b> Conjunto de Opciones"
+          many: "Mostrando <b>todos %{count}</b> Conjunto de Opciones"
           other: "Mostrando <b>todos %{count}</b> Conjunto de Opciones"
     question:
       page_entries_info:
         single_page_html:
           zero: "No se han encontrado Preguntas"
           one: "Mostrando <b>1</b> Pregunta"
+          two: "Mostrando <b>todas %{count}</b> Preguntas"
+          few: "Mostrando <b>todas %{count}</b> Preguntas"
+          many: "Mostrando <b>todas %{count}</b> Preguntas"
           other: "Mostrando <b>todas %{count}</b> Preguntas"
           multi_page_html: "Mostrnado Preguntas <b>%{from} - %{to}</b> de <b>%{count}</b> en total"
     questioning:
@@ -647,6 +749,9 @@ es:
         single_page_html:
           zero: "No se han encontrado Preguntas"
           one: "Mostrando <b>1</b> Pregunta"
+          two: "Mostrando <b>todas %{count}</b> Preguntas"
+          few: "Mostrando <b>todas %{count}</b> Preguntas"
+          many: "Mostrando <b>todas %{count}</b> Preguntas"
           other: "Mostrando <b>todas %{count}</b> Preguntas"
           multi_page_html: "Mostrando Preguntas <b>%{from} - %{to}</b> de <b>%{count}</b> en total"
     report/report:
@@ -654,12 +759,18 @@ es:
         single_page_html:
           zero: "No se han encontrado Informes"
           one: "Mostrando <b>1</b> Informe"
+          two: "Mostrando <b>todos %{count}</b> Informes"
+          few: "Mostrando <b>todos %{count}</b> Informes"
+          many: "Mostrando <b>todos %{count}</b> Informes"
           other: "Mostrando <b>todos %{count}</b> Informes"
     response:
       page_entries_info:
         single_page_html:
           zero: "No se han encontrado Respuestas"
           one: "Mostrando <b>1</b> Respuesta"
+          two: "Mostrando <b>todas %{count}</b> Respuestas"
+          few: "Mostrando <b>todas %{count}</b> Respuestas"
+          many: "Mostrando <b>todas %{count}</b> Respuestas"
           other: "Mostrando <b>todas %{count}</b> Respuestas"
         multi_page_html: "Mostrando Respuestas <b>%{from} - %{to}</b> de <b>%{count}</b> en total"
     sms/message:
@@ -667,6 +778,9 @@ es:
         single_page_html:
           zero: "No se han encontrado SMSes"
           one: "Mostrando <b>1</b> SMS"
+          two: "Mostrando <b>todos %{count}</b> SMSes"
+          few: "Mostrando <b>todos %{count}</b> SMSes"
+          many: "Mostrando <b>todos %{count}</b> SMSes"
           other: "Mostrando <b>todos %{count}</b> SMSes"
         multi_page_html: "Mostrando SMSes <b>%{from} - %{to}</b> de <b>%{count}</b> en total"
     user:
@@ -674,6 +788,9 @@ es:
         single_page_html:
           zero: "No se han encontrado Usuarios"
           one: "Mostrando <b>1</b> Usuario"
+          two: "Mostrando <b>todos %{count}</b> Usuarios"
+          few: "Mostrando <b>todos %{count}</b> Usuarios"
+          many: "Mostrando <b>todos %{count}</b> Usuarios"
           other: "Mostrando <b>todos %{count}</b> Usuarios"
         multi_page_html: "Mostrando Usuarios <b>%{from} - %{to}</b> de <b>%{count}</b> en total"
   authlogic:
@@ -908,6 +1025,9 @@ es:
     remove_question_confirm:
       zero: "¿Está seguro de que desea eliminar ningunas preguntas del formulario?"
       one: "¿Está seguro de que desea eliminar esta pregunta del formulario?"
+      two: "¿Está seguro de que desea eliminar estas %{count} preguntas del formulario?"
+      few: "¿Está seguro de que desea eliminar estas %{count} preguntas del formulario?"
+      many: "¿Está seguro de que desea eliminar estas %{count} preguntas del formulario?"
       other: "¿Está seguro de que desea eliminar estas %{count} preguntas del formulario?"
     reqd_sym_definition: "Preguntas obligatorias están marcadas con un"
     save_and_publish: "Guardar y Publicar"
@@ -1006,6 +1126,9 @@ es:
     attribute:
       zero: "Atributos"
       one: "Atributo"
+      two: "Atributos"
+      few: "Atributos"
+      many: "Atributos"
       other: "Atributos"
     back_to_list: "Volver a Lista de Informes"
     blank: "En blanco"
@@ -1260,14 +1383,23 @@ es:
       forms:
         zero: "Ha importado con éxito %{count} Formularios."
         one: "Ha importado con éxito %{count} Formulario."
+        two: "Ha importado con éxito %{count} Formularios."
+        few: "Ha importado con éxito %{count} Formularios."
+        many: "Ha importado con éxito %{count} Formularios."
         other: "Ha importado con éxito %{count} Formularios."
       option_sets:
         zero: "Ha importado con éxito %{count} Conjuntos de Opciones."
         one: "Ha importado con éxito %{count} Conjunto de Opciones."
+        two: "Ha importado con éxito %{count} Conjuntos de Opciones."
+        few: "Ha importado con éxito %{count} Conjuntos de Opciones."
+        many: "Ha importado con éxito %{count} Conjuntos de Opciones."
         other: "Ha importado con éxito %{count} Conjuntos de Opciones."
       questions:
         zero: "Ha importado con éxito %{count} Preguntas."
         one: "Ha importado con éxito %{count} Pregunta."
+        two: "Ha importado con éxito %{count} Preguntas."
+        few: "Ha importado con éxito %{count} Preguntas."
+        many: "Ha importado con éxito %{count} Preguntas."
         other: "Ha importado con éxito %{count} Preguntas."
     no_importable:
       forms: "No hay nada disponible para importar. O bien no hay formularios estándar, o todos han sido importados ya."
@@ -1278,6 +1410,9 @@ es:
     there_were_errors:
       zero: "Hubieron %{count} errores."
       one: "Hubo %{count} error."
+      two: "Hubieron %{count} errores."
+      few: "Hubieron %{count} errores."
+      many: "Hubieron %{count} errores."
       other: "Hubieron %{count} errores."
   unauthorized:
     default: "No está autorizado a acceder esa página o funcionamiento."
